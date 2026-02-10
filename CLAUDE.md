@@ -4,7 +4,7 @@
 [ONE_SENTENCE_DESCRIPTION]
 
 ## Tech Stack
-- **Backend**: Python 3.12+ / FastAPI / SQLAlchemy / Alembic
+- **Backend**: Python 3.12+ / FastAPI / MongoDB (in docker container)
 - **Frontend**: React 18+ / TypeScript / Vite
 - **Database**: [DATABASE — e.g., PostgreSQL 16]
 - **Testing**: pytest (backend), Vitest + React Testing Library (frontend)
