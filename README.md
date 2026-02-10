@@ -17,8 +17,8 @@ A reusable template that bootstraps Claude Code with a structured workflow: Pyth
 | `.claude/skills/*/SKILL.md` | Reusable skills: plan, TDD, TODO, code review |
 
 ## Setup
-
-### 1. Copy to your project root
+/Users/nicholasbosiacki/coding/recipe/
+### 1. Copy to your project root (enter terminal from this directory)
 
 ```bash
 cp -r claude_new_project_superpack/* your-project/
